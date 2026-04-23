@@ -26,4 +26,4 @@ The [applications]({{ '/application/' | relative_url }}) are open **from March 2
 
 We greatfully acknowledge the financial support of the following institutions:
 
-{% include gallery %}
+{% include gallery layout="half" %}
