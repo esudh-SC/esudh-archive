@@ -2,6 +2,19 @@
 layout: single
 title: "Welcome"
 permalink: /
+gallery:
+  - url: https://eadh.org/
+    image_path: /assets/images/eadh-560.png
+    alt: "European Association for Digital Humanities (EADH)"
+  - url: https://www.humanisti.ca/
+    image_path: /assets/images/humanistica-logo.gif
+    alt: "Humanistica, Association francophone des humanités numériques/digitales"
+  - url: https://www.dariah.eu/
+    image_path: /assets/images/dariah-logo.png
+    alt: "Digital Research Infrastructure for the Arts and Humanities (DARIAH)"
+  - url: https://www.clarin.eu/
+    image_path: /assets/images/Logo-landscape-sub
+    alt: "Common Language Resources and Technology Infrastructure (CLARIN)"
 ---
 
 The European Summer University in Digital Humanities "Culture and Technology" will take place at the Université Marie et Louis Pasteur in Besançon, France **from 6 to 18 July 2026**. 
@@ -10,3 +23,7 @@ Learn more about the ESU [here]({{ '/about/' | relative_url }}){:target="_blank"
 <!-- The ESU in Besançon is sponsored by [DARIAH](https://esudh.github.io/application/#dariah-scholarships) and [CLARIN](https://www.clarin.eu/). [Transkribus](https://www.transkribus.org/scholarship) will also offer 10 scholarships of 3000 credits each. -->
 
 The [applications]({{ '/application/' | relative_url }}) are open **from March 23 to May 24**. We will all be very happy to welcome you in Besançon! Check back for more details and do not hesitate to contact us!
+
+We greatfully acknowledge the financial support of the following institutions:
+
+{% include gallery %}
