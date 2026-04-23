@@ -13,7 +13,7 @@ gallery:
     image_path: /assets/images/dariah-logo.png
     alt: "Digital Research Infrastructure for the Arts and Humanities (DARIAH)"
   - url: https://www.clarin.eu/
-    image_path: /assets/images/Logo-landscape-sub
+    image_path: /assets/images/Logo-landscape-sub.png
     alt: "Common Language Resources and Technology Infrastructure (CLARIN)"
 ---
 
